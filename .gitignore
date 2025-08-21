@@ -1,0 +1,25 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Логи
+*.log
+
+# PyCharm
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Flask
+instance/
